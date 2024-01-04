@@ -1,4 +1,2 @@
-# text-edit-lens-studio
-# text-edit-lens-studio
-# text-edit-lens-studio
-# text-edit-lens-studio
+# Lens Studio - text project + PSD file
+
