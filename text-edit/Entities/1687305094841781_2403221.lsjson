@@ -1,0 +1,79 @@
+{
+    "1687305094840256:2403220": {
+        "IFileManager": {
+            "path": "Files/File_1687305094840256_2403220.pvr"
+        }
+    },
+    "1687305094841781:2403221": {
+        "IResourceController": {
+            "name": "delete_ui",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687305094842329:2403222",
+            "fileId": "1687305094840256:2403220",
+            "originalId": "1687305094842608:2403227",
+            "publicId": "1687305094849940:2403229",
+            "expected_hash": "47d31c63de659d463252fb9b01b775bd",
+            "additional": {
+                "originHash": "e9d3d16d2d856250f8cd93bff8f30c46"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1687305094842329:2403222",
+            "name": "Files/File_1687305094840256_2403220.png",
+            "flags": 1
+        }
+    },
+    "1687305094842329:2403222": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e9d3d16d2d856250f8cd93bff8f30c46"
+                    },
+                    "v": "1687305095465242:2404375"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "14505",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "12714",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1687305094845606:2403228"
+        }
+    },
+    "1687305094842608:2403227": {
+        "IFileManager": {
+            "path": "Files/File_1687305094842608_2403227.png"
+        }
+    },
+    "1687305094845606:2403228": {
+        "IFileManager": {
+            "path": "Files/File_1687305094845606_2403228.png"
+        }
+    },
+    "1687305094849940:2403229": {
+        "IResourceController": {
+            "public": {
+                "path": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]/Textures/delete_ui.png",
+                "hash": "e9d3d16d2d856250f8cd93bff8f30c46"
+            }
+        }
+    },
+    "1687305095465242:2404375": {
+        "IFileManager": {
+            "path": "Files/File_1687305095465242_2404375.pvr"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1686875036414703:1310497": {
+        "IFileManager": {
+            "path": "Files/File_1686875036414703_1310497.js"
+        }
+    },
+    "1686875036417943:1310498": {
+        "IResourceController": {
+            "name": "PrintLiveHierarchy",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686875036417952:1310499",
+            "fileId": "1686875036414703:1310497",
+            "publicId": "1686875036420353:1310509",
+            "expected_hash": "ea25997fe5788d77976ee68f01ff05cb"
+        },
+        "IResourceManager": {
+            "uid": "1686875036417952:1310499",
+            "name": "Files/File_1686875036414703_1310497.js",
+            "flags": 1
+        }
+    },
+    "1686875036417952:1310499": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1686875036420353:1310509": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/PrintLiveHierarchy/Scripts/PrintLiveHierarchy.js",
+                "hash": "ea25997fe5788d77976ee68f01ff05cb"
+            }
+        }
+    }
+}

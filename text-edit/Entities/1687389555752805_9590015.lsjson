@@ -1,0 +1,23 @@
+{
+    "1687389555752805:9590015": {
+        "IResourceController": {
+            "name": "DeleteWhenCloseBy",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1687389555753062:9590016",
+            "resources": [
+                "1687305143610115:2427546",
+                "1687305534066070:2531616"
+            ]
+        }
+    },
+    "1687389555753062:9590016": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/DeleteWhenCloseBy"
+            }
+        }
+    }
+}

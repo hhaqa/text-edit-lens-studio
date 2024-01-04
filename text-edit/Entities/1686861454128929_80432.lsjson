@@ -1,0 +1,40 @@
+{
+    "1686861454127564:80431": {
+        "IFileManager": {
+            "path": "Files/File_1686861454127564_80431.js"
+        }
+    },
+    "1686861454128929:80432": {
+        "IResourceController": {
+            "name": "StickerController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686861454128958:80433",
+            "fileId": "1686861454127564:80431",
+            "publicId": "1686861454129781:80438",
+            "expected_hash": "54355f0d48cb635d2e5cc2bffea2e859"
+        },
+        "IResourceManager": {
+            "uid": "1686861454128958:80433",
+            "name": "Files/File_1686861454127564_80431.js",
+            "flags": 1
+        }
+    },
+    "1686861454128958:80433": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "GetHelpers"
+            ]
+        }
+    },
+    "1686861454129781:80438": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/StickerController.js",
+                "hash": "54355f0d48cb635d2e5cc2bffea2e859"
+            }
+        }
+    }
+}

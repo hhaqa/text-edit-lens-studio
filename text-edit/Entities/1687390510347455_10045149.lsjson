@@ -1,0 +1,23 @@
+{
+    "1687390510347455:10045149": {
+        "IResourceController": {
+            "name": "Prefabs [DRAG TO OBJECTS PANEL AND PRESS APPLY]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1687390510347695:10045150",
+            "resources": [
+                "1687284578378379:471114",
+                "1687284960176247:619064"
+            ]
+        }
+    },
+    "1687390510347695:10045150": {
+        "IResourceController": {
+            "public": {
+                "path": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]/Prefabs [DRAG TO OBJECTS PANEL AND PRESS APPLY]"
+            }
+        }
+    }
+}

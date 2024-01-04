@@ -1,0 +1,40 @@
+{
+    "1687305143604369:2427545": {
+        "IFileManager": {
+            "path": "Files/File_1687305143604369_2427545.js"
+        }
+    },
+    "1687305143610115:2427546": {
+        "IResourceController": {
+            "name": "DeleteTarget",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687305143610140:2427547",
+            "fileId": "1687305143604369:2427545",
+            "publicId": "1687305143610736:2427554",
+            "expected_hash": "295278b1b1f12df5648c74312d2d3430"
+        },
+        "IResourceManager": {
+            "uid": "1687305143610140:2427547",
+            "name": "Files/File_1687305143604369_2427545.js",
+            "flags": 1
+        }
+    },
+    "1687305143610140:2427547": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "SceneObjectHelpersModule"
+            ]
+        }
+    },
+    "1687305143610736:2427554": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/DeleteWhenCloseBy/DeleteTarget.js",
+                "hash": "295278b1b1f12df5648c74312d2d3430"
+            }
+        }
+    }
+}

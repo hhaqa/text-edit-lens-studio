@@ -1,0 +1,77 @@
+{
+    "1688692762850356:743909": {
+        "IFileManager": {
+            "path": "Files/File_1688692762850356_743909"
+        }
+    },
+    "1688692762852236:743910": {
+        "IResourceController": {
+            "name": "Close",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1688692762853999:743913",
+            "fileId": "1688692762850356:743909",
+            "originalId": "1688692762854768:743920",
+            "publicId": "1688692762882502:743933",
+            "expected_hash": "e2f06fcd6d742f91b7c80da620ab43c5"
+        },
+        "IResourceManager": {
+            "uid": "1688692762853999:743913",
+            "name": "Files/File_1688692762850356_743909",
+            "flags": 1
+        }
+    },
+    "1688692762853999:743913": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bd13a5c75bfbfa46a38362ea98c327a3"
+                    },
+                    "v": "1688692764533259:746481"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "501600",
+                "extension": "t3d",
+                "originalRAM": "16777216",
+                "originalSize": "510495",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1688692762856886:743921"
+        }
+    },
+    "1688692762854768:743920": {
+        "IFileManager": {
+            "path": "Files/File_1688692762854768_743920"
+        }
+    },
+    "1688692762856886:743921": {
+        "IFileManager": {
+            "path": "Files/File_1688692762856886_743921"
+        }
+    },
+    "1688692762882502:743933": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Textures/Animated Textures [TRY_ADDING_TO_MEME_CONTROLLER]/Close",
+                "hash": "bd13a5c75bfbfa46a38362ea98c327a3",
+                "complexResourceHash": "00827acd1e14c38b2cd68800d863d699"
+            }
+        }
+    },
+    "1688692764533259:746481": {
+        "IFileManager": {
+            "path": "Files/File_1688692764533259_746481"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1687279534881142:36943": {
+        "IFileManager": {
+            "path": "Files/File_1687279534881142_36943.lsc"
+        }
+    },
+    "1687279534882977:36945": {
+        "IResourceController": {
+            "name": "Manipulate Screen Transform",
+            "type": 32,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1686849478225101:486516",
+            "fileId": "1687279534881142:36943",
+            "originalId": "1687279534897618:36985",
+            "publicId": "1687279534910725:36994",
+            "expected_hash": "2ba807a831fed41fb8c7d5eef3fb10ff",
+            "resources": [
+                "1687279534885154:36947",
+                "1687279534889640:36966",
+                "1687279534894883:36976"
+            ]
+        }
+    },
+    "1687279534897618:36985": {
+        "IFileManager": {
+            "path": "Files/File_1687279534897618_36985.lsc"
+        }
+    },
+    "1687279534910725:36994": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Manipulate Screen Transform.lsc",
+                "hash": "9fbb5935b52b2874e1fbdf374a5f9b75"
+            }
+        }
+    }
+}

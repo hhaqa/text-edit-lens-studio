@@ -1,0 +1,43 @@
+{
+    "1687301789760400:1409990": {
+        "IFileManager": {
+            "path": "Files/File_1687301789760400_1409990"
+        }
+    },
+    "1687301789764309:1409991": {
+        "IResourceController": {
+            "name": "Hint_Rotate_5",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687301789764891:1409994",
+            "fileId": "1687301789760400:1409990",
+            "originalId": "1687301789774847:1410003",
+            "publicId": "1687301789801949:1410019",
+            "expected_hash": "7f8eb0fde335b6e3073d2956684a91d5",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1687301789764891:1409994",
+            "name": "Files/File_1687301789760400_1409990",
+            "flags": 1
+        }
+    },
+    "1687301789774847:1410003": {
+        "IFileManager": {
+            "path": "Files/File_1687301789774847_1410003"
+        }
+    },
+    "1687301789801949:1410019": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Custom Hint Resources/Resources/Textures/Animated/Hint_Rotate_5",
+                "hash": "7f8eb0fde335b6e3073d2956684a91d5",
+                "complexResourceHash": "1760e7bf99ecac5e9cbdb088d8615c31"
+            }
+        }
+    }
+}

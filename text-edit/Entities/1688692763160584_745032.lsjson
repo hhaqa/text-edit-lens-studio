@@ -1,0 +1,77 @@
+{
+    "1688692763158401:745031": {
+        "IFileManager": {
+            "path": "Files/File_1688692763158401_745031"
+        }
+    },
+    "1688692763160584:745032": {
+        "IResourceController": {
+            "name": "Victory",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1688692763161800:745035",
+            "fileId": "1688692763158401:745031",
+            "originalId": "1688692763162477:745042",
+            "publicId": "1688692763192026:745055",
+            "expected_hash": "ef9bbefb690a6543067f26b2db56a55d"
+        },
+        "IResourceManager": {
+            "uid": "1688692763161800:745035",
+            "name": "Files/File_1688692763158401_745031",
+            "flags": 1
+        }
+    },
+    "1688692763161800:745035": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "fc828eac71986e37c3830d3d8136a6b8"
+                    },
+                    "v": "1688692769954829:753107"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "473384",
+                "extension": "t3d",
+                "originalRAM": "16777216",
+                "originalSize": "535716",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1688692763165071:745043"
+        }
+    },
+    "1688692763162477:745042": {
+        "IFileManager": {
+            "path": "Files/File_1688692763162477_745042"
+        }
+    },
+    "1688692763165071:745043": {
+        "IFileManager": {
+            "path": "Files/File_1688692763165071_745043"
+        }
+    },
+    "1688692763192026:745055": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Textures/Animated Textures [TRY_ADDING_TO_MEME_CONTROLLER]/Victory",
+                "hash": "fc828eac71986e37c3830d3d8136a6b8",
+                "complexResourceHash": "4bb48afcb2995cf27705b722d9a695a8"
+            }
+        }
+    },
+    "1688692769954829:753107": {
+        "IFileManager": {
+            "path": "Files/File_1688692769954829_753107"
+        }
+    }
+}

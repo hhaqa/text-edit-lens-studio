@@ -1,0 +1,37 @@
+{
+    "1687284177346303:252279": {
+        "IFileManager": {
+            "path": "Files/File_1687284177346303_252279.lsc"
+        }
+    },
+    "1687284177347532:252281": {
+        "IResourceController": {
+            "name": "Layout Element",
+            "type": 32,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1669931932549156:261088",
+            "fileId": "1687284177346303:252279",
+            "originalId": "1687284177352146:252301",
+            "publicId": "1687284177359012:252302",
+            "expected_hash": "9516add2fe4d6c6b7bb88ebe0858731e",
+            "resources": [
+                "1687284177348701:252283"
+            ]
+        }
+    },
+    "1687284177352146:252301": {
+        "IFileManager": {
+            "path": "Files/File_1687284177352146_252301.lsc"
+        }
+    },
+    "1687284177359012:252302": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Layout Element.lsc",
+                "hash": "f3cd6afa12281c74b91019ec2c6da8fe"
+            }
+        }
+    }
+}

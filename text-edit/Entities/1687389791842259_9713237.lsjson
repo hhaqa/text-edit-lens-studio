@@ -1,0 +1,22 @@
+{
+    "1687389791842259:9713237": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1687389791842537:9713238",
+            "resources": [
+                "1686875036417943:1310498"
+            ]
+        }
+    },
+    "1687389791842537:9713238": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/PrintLiveHierarchy/Scripts"
+            }
+        }
+    }
+}

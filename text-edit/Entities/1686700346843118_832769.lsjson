@@ -1,0 +1,38 @@
+{
+    "1686700346841313:832768": {
+        "IFileManager": {
+            "path": "Files/File_1686700346841313_832768.js"
+        }
+    },
+    "1686700346843118:832769": {
+        "IResourceController": {
+            "name": "RenderOrderHelperModule",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686700346843130:832770",
+            "fileId": "1686700346841313:832768",
+            "publicId": "1686700346843680:832775",
+            "expected_hash": "2e28fafca5aa286a53de652c65b16ab3"
+        },
+        "IResourceManager": {
+            "uid": "1686700346843130:832770",
+            "name": "Files/File_1686700346841313_832768.js",
+            "flags": 1
+        }
+    },
+    "1686700346843130:832770": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1686700346843680:832775": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/RenderOrderHelper/RenderOrderHelperModule.js",
+                "hash": "2e28fafca5aa286a53de652c65b16ab3"
+            }
+        }
+    }
+}

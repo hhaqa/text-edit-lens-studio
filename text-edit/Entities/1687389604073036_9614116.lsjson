@@ -1,0 +1,39 @@
+{
+    "1687389604073036:9614116": {
+        "IResourceController": {
+            "name": "Debug Helper [PLACE_UNDER_ORTHO][DELETE_ME]",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687389604072875:9614096",
+            "fileId": "1687389604096503:9614139",
+            "originalId": "1687389941793764:9774217",
+            "publicId": "1687389604097687:9614140",
+            "expected_hash": "e1cd9cb37dd8da13f2d642e87e09d96d"
+        },
+        "IResourceManager": {
+            "uid": "1687389604072875:9614096",
+            "name": "Debug Helper [PLACE_UNDER_ORTHO][DELETE_ME]",
+            "flags": 0
+        }
+    },
+    "1687389604096503:9614139": {
+        "IFileManager": {
+            "path": "Files/File_1687389604096503_9614139.oprfb"
+        }
+    },
+    "1687389604097687:9614140": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/PrintLiveHierarchy/Debug Helper [PLACE_UNDER_ORTHO][DELETE_ME].oprfb",
+                "hash": "a830d2e438c34731eb0702a42d957a9d"
+            }
+        }
+    },
+    "1687389941793764:9774217": {
+        "IFileManager": {
+            "path": "Files/File_1687389941793764_9774217.oprfb"
+        }
+    }
+}

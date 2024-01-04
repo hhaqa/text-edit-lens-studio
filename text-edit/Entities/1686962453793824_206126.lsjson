@@ -1,0 +1,40 @@
+{
+    "1686962453790514:206125": {
+        "IFileManager": {
+            "path": "Files/File_1686962453790514_206125.js"
+        }
+    },
+    "1686962453793824:206126": {
+        "IResourceController": {
+            "name": "SetUpRenderOrderHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686962453793837:206127",
+            "fileId": "1686962453790514:206125",
+            "publicId": "1686962453794614:206132",
+            "expected_hash": "500a38da064a04099212765c1f88332f"
+        },
+        "IResourceManager": {
+            "uid": "1686962453793837:206127",
+            "name": "Files/File_1686962453790514_206125.js",
+            "flags": 1
+        }
+    },
+    "1686962453793837:206127": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "RenderOrderHelperModule"
+            ]
+        }
+    },
+    "1686962453794614:206132": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/RenderOrderHelper/SetUpRenderOrderHelper.js",
+                "hash": "500a38da064a04099212765c1f88332f"
+            }
+        }
+    }
+}

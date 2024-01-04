@@ -1,0 +1,22 @@
+{
+    "1688691561058069:228890": {
+        "IResourceController": {
+            "name": "Instantiator Button Look",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1688691561058494:228891",
+            "resources": [
+                "1691170208194314:42733"
+            ]
+        }
+    },
+    "1688691561058494:228891": {
+        "IResourceController": {
+            "public": {
+                "path": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]/Instantiator Button Look"
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1688692952633610:848557": {
+        "IResourceController": {
+            "name": "Animated Textures [TRY_ADDING_TO_MEME_CONTROLLER]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1688692952634006:848558",
+            "resources": [
+                "1688692762852236:743910",
+                "1688692762953974:744017",
+                "1688692763027010:744073",
+                "1688692763093631:744984",
+                "1688692763160584:745032"
+            ]
+        }
+    },
+    "1688692952634006:848558": {
+        "IResourceController": {
+            "public": {
+                "path": "Example Textures/Animated Textures [TRY_ADDING_TO_MEME_CONTROLLER]"
+            }
+        }
+    }
+}

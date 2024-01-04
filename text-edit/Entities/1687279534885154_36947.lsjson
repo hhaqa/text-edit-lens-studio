@@ -1,0 +1,32 @@
+{
+    "1687279534883052:36946": {
+        "IFileManager": {
+            "path": "Files/File_1687279534883052_36946.js"
+        }
+    },
+    "1687279534885154:36947": {
+        "IResourceController": {
+            "name": "Manipulate Screen Transform",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1687279534885168:36948",
+            "fileId": "1687279534883052:36946",
+            "expected_hash": "1f604c708ac44b816f13c84e3f0e1c3e"
+        },
+        "IResourceManager": {
+            "uid": "1687279534885168:36948",
+            "name": "Files/File_1687279534883052_36946.js",
+            "flags": 1
+        }
+    },
+    "1687279534885168:36948": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "EventModule",
+                "DestructionHelper"
+            ]
+        }
+    }
+}

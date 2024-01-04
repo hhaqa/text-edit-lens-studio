@@ -1,0 +1,40 @@
+{
+    "1687296833942004:4680": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/MemeStickerController.js",
+                "hash": "9108d4c6ff6f20894f842a8304a1364a"
+            }
+        }
+    },
+    "1687296833942440:4681": {
+        "IFileManager": {
+            "path": "Files/File_1687296833942440_4681.js"
+        }
+    },
+    "1687296833943487:4682": {
+        "IResourceController": {
+            "name": "MemeStickerController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687296833943501:4683",
+            "fileId": "1687296833942440:4681",
+            "publicId": "1687296833942004:4680",
+            "expected_hash": "9108d4c6ff6f20894f842a8304a1364a"
+        },
+        "IResourceManager": {
+            "uid": "1687296833943501:4683",
+            "name": "Files/File_1687296833942440_4681.js",
+            "flags": 1
+        }
+    },
+    "1687296833943501:4683": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "GetHelpers"
+            ]
+        }
+    }
+}

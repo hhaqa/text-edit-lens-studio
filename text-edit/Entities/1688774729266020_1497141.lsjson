@@ -1,0 +1,38 @@
+{
+    "1688774729264739:1497139": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/GetHelpers.js",
+                "hash": "7815c8ca1ba95fa4fb6713d947c4534e"
+            }
+        }
+    },
+    "1688774729265148:1497140": {
+        "IFileManager": {
+            "path": "Files/File_1688774729265148_1497140.js"
+        }
+    },
+    "1688774729266020:1497141": {
+        "IResourceController": {
+            "name": "GetHelpers",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1688774729266032:1497142",
+            "fileId": "1688774729265148:1497140",
+            "publicId": "1688774729264739:1497139",
+            "expected_hash": "7815c8ca1ba95fa4fb6713d947c4534e"
+        },
+        "IResourceManager": {
+            "uid": "1688774729266032:1497142",
+            "name": "Files/File_1688774729265148_1497140.js",
+            "flags": 1
+        }
+    },
+    "1688774729266032:1497142": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

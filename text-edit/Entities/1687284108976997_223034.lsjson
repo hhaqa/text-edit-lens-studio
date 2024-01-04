@@ -1,0 +1,31 @@
+{
+    "1687284108974716:223033": {
+        "IFileManager": {
+            "path": "Files/File_1687284108974716_223033.js"
+        }
+    },
+    "1687284108976997:223034": {
+        "IResourceController": {
+            "name": "VerticalList",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1687284108977014:223035",
+            "fileId": "1687284108974716:223033",
+            "expected_hash": "d2937c715f463c91388f327564e06859"
+        },
+        "IResourceManager": {
+            "uid": "1687284108977014:223035",
+            "name": "Files/File_1687284108974716_223033.js",
+            "flags": 1
+        }
+    },
+    "1687284108977014:223035": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "FlexboxModule"
+            ]
+        }
+    }
+}

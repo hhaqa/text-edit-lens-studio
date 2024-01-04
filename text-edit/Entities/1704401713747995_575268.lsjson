@@ -1,0 +1,79 @@
+{
+    "1704401713740064:575266": {
+        "IResourceController": {
+            "public": {
+                "path": "gm arabic.png",
+                "hash": "d66f9ab5002d97935327d6d73aefbbb3"
+            }
+        }
+    },
+    "1704401713746313:575267": {
+        "IFileManager": {
+            "path": "Files/File_1704401713746313_575267.pvr"
+        }
+    },
+    "1704401713747995:575268": {
+        "IResourceController": {
+            "name": "gm arabic",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704401713749314:575269",
+            "fileId": "1704401713746313:575267",
+            "originalId": "1704401713749811:575274",
+            "publicId": "1704401713740064:575266",
+            "expected_hash": "1f5bf16533812d8bd3fc36e2a3170f7e",
+            "additional": {
+                "originHash": "d66f9ab5002d97935327d6d73aefbbb3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704401713749314:575269",
+            "name": "Files/File_1704401713746313_575267.png",
+            "flags": 1
+        }
+    },
+    "1704401713749314:575269": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d66f9ab5002d97935327d6d73aefbbb3"
+                    },
+                    "v": "1704401725959353:582373"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "187392",
+                "compressedSize": "44740",
+                "extension": "png",
+                "originalRAM": "1497088",
+                "originalSize": "118279",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1704401713754621:575275"
+        }
+    },
+    "1704401713749811:575274": {
+        "IFileManager": {
+            "path": "Files/File_1704401713749811_575274.png"
+        }
+    },
+    "1704401713754621:575275": {
+        "IFileManager": {
+            "path": "Files/File_1704401713754621_575275.png"
+        }
+    },
+    "1704401725959353:582373": {
+        "IFileManager": {
+            "path": "Files/File_1704401725959353_582373.pvr"
+        }
+    }
+}

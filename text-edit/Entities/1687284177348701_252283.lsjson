@@ -1,0 +1,29 @@
+{
+    "1687284177347591:252282": {
+        "IFileManager": {
+            "path": "Files/File_1687284177347591_252282.js"
+        }
+    },
+    "1687284177348701:252283": {
+        "IResourceController": {
+            "name": "Layout Element",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1687284177348716:252284",
+            "fileId": "1687284177347591:252282",
+            "expected_hash": "71d9f99d6486cc459177bdfb91bc206b"
+        },
+        "IResourceManager": {
+            "uid": "1687284177348716:252284",
+            "name": "Files/File_1687284177347591_252282.js",
+            "flags": 1
+        }
+    },
+    "1687284177348716:252284": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

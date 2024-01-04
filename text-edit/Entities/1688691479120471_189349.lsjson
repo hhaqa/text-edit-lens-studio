@@ -1,0 +1,24 @@
+{
+    "1688691479120471:189349": {
+        "IResourceController": {
+            "name": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1688691479120840:189350",
+            "resources": [
+                "1687390510347455:10045149",
+                "1688691561058069:228890",
+                "1687390273657515:9903712"
+            ]
+        }
+    },
+    "1688691479120840:189350": {
+        "IResourceController": {
+            "public": {
+                "path": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1691170208192651:42732": {
+        "IFileManager": {
+            "path": "Files/File_1691170208192651_42732"
+        }
+    },
+    "1691170208194314:42733": {
+        "IResourceController": {
+            "name": "Rounded Image Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691170208194319:42734",
+            "fileId": "1691170208192651:42732",
+            "originalId": "1691170208221208:42740",
+            "publicId": "1691170208387187:42778",
+            "expected_hash": "df6578e940e3cc74d672b5e41614bfb8"
+        },
+        "IResourceManager": {
+            "uid": "1691170208194319:42734",
+            "name": "Files/File_1691170208192651_42732",
+            "flags": 1
+        }
+    },
+    "1691170208221208:42740": {
+        "IFileManager": {
+            "path": "Files/File_1691170208221208_42740.lsmat"
+        }
+    },
+    "1691170208387187:42778": {
+        "IResourceController": {
+            "public": {
+                "path": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]/Instantiator Button Look/Rounded Image Material.lsmat",
+                "hash": "a0effa2a624b0fdda8ca4b6ad696040f"
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "1687305534064801:2531615": {
+        "IFileManager": {
+            "path": "Files/File_1687305534064801_2531615.js"
+        }
+    },
+    "1687305534066070:2531616": {
+        "IResourceController": {
+            "name": "Deletable",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687305534066079:2531617",
+            "fileId": "1687305534064801:2531615",
+            "publicId": "1687305534069503:2531631",
+            "expected_hash": "cdc99d5e4685e18ba3a8672b7c10b109"
+        },
+        "IResourceManager": {
+            "uid": "1687305534066079:2531617",
+            "name": "Files/File_1687305534064801_2531615.js",
+            "flags": 1
+        }
+    },
+    "1687305534066079:2531617": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "GetHelpers"
+            ]
+        }
+    },
+    "1687305534069503:2531631": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/DeleteWhenCloseBy/Deletable.js",
+                "hash": "cdc99d5e4685e18ba3a8672b7c10b109"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1687284578378379:471114": {
+        "IResourceController": {
+            "name": "Instantiator",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687284578378196:471072",
+            "fileId": "1687284578429903:471158",
+            "originalId": "1687286108163901:946382",
+            "publicId": "1687284578432091:471159",
+            "expected_hash": "cc84d9d0c3e4967269f67b4035a27324"
+        },
+        "IResourceManager": {
+            "uid": "1687284578378196:471072",
+            "name": "Screen Image 0",
+            "flags": 0
+        }
+    },
+    "1687284578429903:471158": {
+        "IFileManager": {
+            "path": "Files/File_1687284578429903_471158.oprfb"
+        }
+    },
+    "1687284578432091:471159": {
+        "IResourceController": {
+            "public": {
+                "path": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]/Prefabs [DRAG TO OBJECTS PANEL AND PRESS APPLY]/Instantiator.oprfb",
+                "hash": "dbf715151a658728e654012bb28f6bdf"
+            }
+        }
+    },
+    "1687286108163901:946382": {
+        "IFileManager": {
+            "path": "Files/File_1687286108163901_946382.oprfb"
+        }
+    }
+}

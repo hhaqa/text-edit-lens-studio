@@ -1,0 +1,40 @@
+{
+    "1687283441056678:58835": {
+        "IFileManager": {
+            "path": "Files/File_1687283441056678_58835.js"
+        }
+    },
+    "1687283441058271:58836": {
+        "IResourceController": {
+            "name": "InstantiatorController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687283441058286:58837",
+            "fileId": "1687283441056678:58835",
+            "publicId": "1687283441059125:58842",
+            "expected_hash": "0c514e8fa28d5b7dcfffbebfb1491735"
+        },
+        "IResourceManager": {
+            "uid": "1687283441058286:58837",
+            "name": "Files/File_1687283441056678_58835.js",
+            "flags": 1
+        }
+    },
+    "1687283441058286:58837": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "GetHelpers"
+            ]
+        }
+    },
+    "1687283441059125:58842": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/InstantiatorController.js",
+                "hash": "0c514e8fa28d5b7dcfffbebfb1491735"
+            }
+        }
+    }
+}

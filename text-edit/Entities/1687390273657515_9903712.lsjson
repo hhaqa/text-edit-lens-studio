@@ -1,0 +1,22 @@
+{
+    "1687390273657515:9903712": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1687390273657738:9903713",
+            "resources": [
+                "1687305094841781:2403221"
+            ]
+        }
+    },
+    "1687390273657738:9903713": {
+        "IResourceController": {
+            "public": {
+                "path": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]/Textures"
+            }
+        }
+    }
+}

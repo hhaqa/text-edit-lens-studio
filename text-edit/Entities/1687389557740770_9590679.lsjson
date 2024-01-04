@@ -1,0 +1,23 @@
+{
+    "1687389557740770:9590679": {
+        "IResourceController": {
+            "name": "PrintLiveHierarchy",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1687389557741064:9590680",
+            "resources": [
+                "1687389604073036:9614116",
+                "1687389791842259:9713237"
+            ]
+        }
+    },
+    "1687389557741064:9590680": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/PrintLiveHierarchy"
+            }
+        }
+    }
+}

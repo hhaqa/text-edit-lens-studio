@@ -1,0 +1,23 @@
+{
+    "1687389557573135:9590622": {
+        "IResourceController": {
+            "name": "RenderOrderHelper",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1687389557573372:9590623",
+            "resources": [
+                "1686700346843118:832769",
+                "1686962453793824:206126"
+            ]
+        }
+    },
+    "1687389557573372:9590623": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helpers/RenderOrderHelper"
+            }
+        }
+    }
+}

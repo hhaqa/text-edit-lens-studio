@@ -1,0 +1,39 @@
+{
+    "1687284960176247:619064": {
+        "IResourceController": {
+            "name": "Sticker",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687284960176013:619016",
+            "fileId": "1687284960230213:619129",
+            "originalId": "1687286108216735:946439",
+            "publicId": "1687284960231699:619130",
+            "expected_hash": "88d9ac541cd4ea3ff8594eeeb065e5c8"
+        },
+        "IResourceManager": {
+            "uid": "1687284960176013:619016",
+            "name": "Screen Image 1",
+            "flags": 0
+        }
+    },
+    "1687284960230213:619129": {
+        "IFileManager": {
+            "path": "Files/File_1687284960230213_619129.oprfb"
+        }
+    },
+    "1687284960231699:619130": {
+        "IResourceController": {
+            "public": {
+                "path": "Visuals [EDIT_CHILDREN_TO_CUSTOMIZE_LOOK]/Prefabs [DRAG TO OBJECTS PANEL AND PRESS APPLY]/Sticker.oprfb",
+                "hash": "c210ffa70943fa50967b45619d44987e"
+            }
+        }
+    },
+    "1687286108216735:946439": {
+        "IFileManager": {
+            "path": "Files/File_1687286108216735_946439.oprfb"
+        }
+    }
+}
